@@ -1,4 +1,6 @@
-<img width="1459" height="754" alt="CONSUMER-BEHAVIOUR-AND-ENGAGEMENT-ANALYSIS" src="https://github.com/user-attachments/assets/bd34da9e-dabd-4f35-ad13-3ee5e9ac4c88" />## 📑 Table of Contents
+<img width="286" height="176" alt="download" src="https://github.com/user-attachments/assets/ab1ca8d7-8a0a-4cbc-9b88-cba44ff9bd04" />
+
+## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Problem Statement](#-problem-statement)
 3. [Tools & Technologies Used](#-tools--technologies-used)
@@ -78,7 +80,7 @@ The platform required a data-driven view of business performance to answer the f
 | **Behavior Metrics** | Device_Type, Session_Duration_Minutes, Pages_Viewed, Is_Returning_Customer |
 | **Post-Purchase** | Delivery_Time_Days, Customer_Rating |
 
-📄 Full column descriptions available in [`docs/data_dictionary.md`](docs/data_dictionary.md)
+📄 Full column descriptions available in (https://github.com/LEGIT-GENIUS/ecommerce-customer-behavior-analysis/blob/main/docs/data_dictionary.md)
 
 ---
 
@@ -96,7 +98,7 @@ All cleaning was performed in **Microsoft Excel** before importing the data into
 7. ✅ **Created Discount Range buckets** (0–5%, 6–10%, 11–20%, 21%+) for segmentation
 8. ✅ **Created Delivery Group buckets** (1–3 days, 4–7 days, 8–14 days, 15–30 days)
 
-📄 Full methodology in [`docs/methodology.md`](docs/methodology.md)
+📄 Full methodology in (https://github.com/LEGIT-GENIUS/ecommerce-customer-behavior-analysis/blob/main/docs/docs/methodology.md)
 
 ---
 
@@ -131,7 +133,7 @@ Key DAX measures were built using **Bravo BI** and native Power BI DAX.
 - **MOM Gross Revenue**
 - **% Growth vs Previous Month**
 
-📄 Full DAX documentation in [`docs/dax_calculations.md`](docs/dax_calculations.md)
+📄 Full DAX documentation in (https://github.com/LEGIT-GENIUS/ecommerce-customer-behavior-analysis/blob/main/docs/dax_calculations.md)
 
 ---
 
