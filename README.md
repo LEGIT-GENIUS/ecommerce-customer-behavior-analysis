@@ -192,7 +192,7 @@ An executive-level overview featuring high-level KPIs, MoM time intelligence com
 - Avg Customer Rating Gauge (3.90/5)
 - Avg Delivery Time Gauge (6.50 days)
 
-🖼 ![Page 3](![<img width="1463" height="756" alt="EXECUTIVE_SUMMARY" src="https://github.com/user-attachments/assets/ac0fabb1-9731-487a-bd94-e6f2bf10c918" />
+🖼 ![Page 3](![<img width="1465" height="769" alt="EXECUTIVE_SUMMARY_111" src="https://github.com/user-attachments/assets/c6d9c646-901a-4019-83c1-b508f0ffe673" />
 )
 
 ---
@@ -341,3 +341,4 @@ Dataset is under **CC0: Public Domain** license from Kaggle.
 ---
 
 ⭐ **If you find this project useful, please consider giving it a star!** ⭐
+The PDF file to the full report can be accessed via this link: 
