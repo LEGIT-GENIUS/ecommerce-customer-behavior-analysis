@@ -173,7 +173,8 @@ A deep dive into product category performance, discount impact, delivery group a
 - Net Revenue vs Customer Rating (Bubble)
 - Discount Analysis table
 
-🖼 ![Page 2](<img width="1471" height="746" alt="PRODUCT-PERFORMANCE" src="https://github.com/user-attachments/assets/c5574e0a-79c3-4796-aa3d-3e686b1bfa6c" />)
+🖼 ![Page 2](<img width="1471" height="746" alt="PRODUCT-PERFORMANCE" src="https://github.com/user-attachments/assets/9dee1fc4-ac30-4bdf-9ecb-a9b31d3412a2" />
+)
 
 ---
 
@@ -191,7 +192,7 @@ An executive-level overview featuring high-level KPIs, MoM time intelligence com
 - Avg Customer Rating Gauge (3.90/5)
 - Avg Delivery Time Gauge (6.50 days)
 
-🖼 ![Page 3](<img width="1463" height="756" alt="EXECUTIVE_SUMMARY" src="https://github.com/user-attachments/assets/9ff7f208-5ad7-404c-938d-177f9dd76a85" />
+🖼 ![Page 3](<img width="1463" height="756" alt="EXECUTIVE_SUMMARY" src="https://github.com/user-attachments/assets/ac0fabb1-9731-487a-bd94-e6f2bf10c918" />
 )
 
 ---
