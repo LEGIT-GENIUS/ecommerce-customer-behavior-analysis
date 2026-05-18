@@ -1,4 +1,5 @@
-<img width="286" height="176" alt="download" src="https://github.com/user-attachments/assets/ab1ca8d7-8a0a-4cbc-9b88-cba44ff9bd04" />
+<img width="1600" height="912" alt="Untitled design" src="https://github.com/user-attachments/assets/e9eb0428-d0e0-4282-92f0-912a68a7ef7d" />
+
 
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)
